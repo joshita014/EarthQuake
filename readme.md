@@ -14,13 +14,18 @@ cd ./client
 npm install
 
 ### If you have problem with dotenv not reading the config use this command.
-npm install dotenv --save
+npm install dotenv --save 
+
 make an .env file inside server :  server/.env
+
 inside .env write:-
+
 
 ----------------------------------------------
 MONGODB_URI= ---your mongodb cluster URL---
+
 BACKEND_PORT=3001
+
 -----------------------------------------------
 
 # To Run !
