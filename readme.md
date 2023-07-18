@@ -2,7 +2,8 @@ Hello Guys!!,
 
 I am delighted to share my MERN project with you. The objective of this project is to retrieve earthquake data from an API and visualize it using a map. To accomplish this, I have utilized the Leaflet library.
 
-Please follow the steps outlined below to install and run my project:
+Please find below the outlined steps to install and run my project. To ensure smooth execution, kindly use two separate terminals to simultaneously handle server and client:
+
 # Installing the packages 
 
 ## Backend
