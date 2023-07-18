@@ -33,10 +33,12 @@ BACKEND_PORT=3001
 # To Run !
 # Backend: 
 cd ./server
+
 npm start
 
 # Frontend:
 cd ./client
+
 npm start
 
 
