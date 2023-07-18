@@ -7,10 +7,12 @@ Please follow the steps outlined below to install and run my project:
 
 ## Backend
 cd ./server
+
 npm install
 
 ## Frontend
 cd ./client 
+
 npm install
 
 ### If you have problem with dotenv not reading the config use this command.
